@@ -28,7 +28,7 @@ Se você quiser conversar, colaborar em um projeto ou apenas trocar ideias, fiqu
 #
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drysiqu3ira.github.io/)
 
 #
 Obrigado por visitar meu portfólio! Esse é apenas o começo da minha jornada, e estou animado para continuar aprendendo e crescendo. Vamos conectar e criar algo incrível juntos! 💥
